@@ -218,6 +218,9 @@
         width: 100%;
         text-align: center;
     }
+    footer p {
+        font-size: 14px;
+    }
 }
 
 @media (max-width:320px) {
